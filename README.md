@@ -7,4 +7,6 @@
 페이지 "고돌" - 나의 스킬/ 프로젝트(부산헹(1)(2), 유니티 볼트, 기초 파이썬)/ 하고싶은 프로젝트/ 희망직무
 페이지 "설명" - 간단한 홈페이지 설명
 페이지 "정보" - Name, Email Address, Phone Number, Message 작성란
+
+github 주소 - https://github.com/godolll/godolll.github.io/tree/main
               
